@@ -39,7 +39,7 @@ Estarei compartilhando minha evolução no  Bootcamp Banco Pan Java Developer.
 ![Introdução ao Git e ao GitHub](https://user-images.githubusercontent.com/112019351/222115718-72efafa6-30ae-4e19-ba2c-3f8add7503fa.jpeg)
 
 ### 7 - Como Entregar seu Desafio de Projeto
-![Como Entregar seu Desafio de Projeto](https://user-images.githubusercontent.com/112019351/222115721-f7a3e591-8939-4f69-b141-046e814f1cd9.jpeg)
+![1114cb2d-be49-4c0d-975a-bb586228e7d1](https://user-images.githubusercontent.com/112019351/224410687-0a8bd563-406c-479d-9342-8be11746b3c7.jpg) 
 
 ### 8 - Dominando IDEs JAVA
 ![4c473228-2684-4c07-ba62-96d68373534c](https://user-images.githubusercontent.com/112019351/224407794-387cdcfb-4d3e-4627-853c-057c92f087f9.jpg)
